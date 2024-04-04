@@ -1,0 +1,11 @@
+## RECSRecommendations Upload File,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,
+## RECS,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin
+1,Ski Touring,Magazine Article,Learn about our ski touring experience and how it differs from traditional downhill skiing and even backcountry skiing.,/content/dam/wknd-shared/en/magazine/la-skateparks/article_01_hero.png,,/content/wknd/language-masters/en/test-page/magazine/ski-touring.html,,
+2,Ultimate Guide to LA Skateparks,Magazine Article,Breaking down the top skate destinations in all of Los Angeles. You don't want to miss this!,/content/dam/wknd-shared/en/magazine/la-skateparks/article_01_hero.png,,/content/wknd/language-masters/en/test-page/magazine/guide-la-skateparks.html,,
+3,Arctic Surfing,Magazine Article,"We traveled to Northern Norway to document the joy of surfing in extreme, but breathtakingly beautiful conditions.",/content/dam/wknd-shared/en/magazine/la-skateparks/article_01_hero.png,,/wknd/language-masters/en/test-page/magazine/arctic-surfing.html,,
+4,Western Australia,Magazine Article,"The Australian West coast is a camper’s heaven. Endless miles of desert roads leading to secret beaches, vast canyons and crystal clear rivers, and the very few people you are likely to meet on your journey will be some of the most easy-going characters you’ll find anywhere in the world. ",/content/dam/wknd-shared/en/magazine/la-skateparks/article_01_hero.png,,/content/wknd/language-masters/en/test-page/magazine/western-australia.html,,
